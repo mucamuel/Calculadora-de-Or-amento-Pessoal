@@ -3,7 +3,7 @@
 
 
 -----
-🔖 OLÁ A TODOS!
+🔖HELLOO PEOPLE!
 
 É com grande entusiasmo que compartilho mais um marco na minha jornada pelo mundo da tecnologia: o lançamento do meu mais novo projeto, a **Calculadora de Orçamento Pessoal**!
 Desenvolvida para oferecer a você o controle total das suas finanças, esta ferramenta intuitiva permite que você acompanhe seus gastos mensais de forma eficiente e gerencie seu dinheiro com muito mais praticidade. Diga adeus às surpresas no fim do mês e comece a planejar seu futuro financeiro com confiança!
