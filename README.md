@@ -1,6 +1,9 @@
 # CALCULADORA DE ORÇAMENTO PESSOAL
+<img width="492" height="508" alt="Captura_de_tela_2025-08-19_223248-removebg-preview" src="https://github.com/user-attachments/assets/64053782-93ee-4510-983a-a80680f8de1f" />
+
+
 -----
-🔖 Olá a todos!
+🔖 OLÁ A TODOS!
 
 É com grande entusiasmo que compartilho mais um marco na minha jornada pelo mundo da tecnologia: o lançamento do meu mais novo projeto, a **Calculadora de Orçamento Pessoal**!
 Desenvolvida para oferecer a você o controle total das suas finanças, esta ferramenta intuitiva permite que você acompanhe seus gastos mensais de forma eficiente e gerencie seu dinheiro com muito mais praticidade. Diga adeus às surpresas no fim do mês e comece a planejar seu futuro financeiro com confiança!
