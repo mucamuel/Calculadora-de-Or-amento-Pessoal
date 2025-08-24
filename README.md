@@ -3,10 +3,9 @@
 
 
 --------
+📊 **ESPECIFICAÇÕES TÉCNICAS** 📊
 Este projeto consiste no desenvolvimento de uma interface gráfica para uma calculadora, utilizando HTML5 e REACT. O foco principal desta iniciativa é aprimorar minhas habilidades em estruturação de layout e otimização da organização visual de componentes em aplicações web, resultando em uma experiência de usuário intuitiva e esteticamente agradável.
 
-------
-📊 **ESPECIFICAÇÕES TÉCNICAS** 📊
 ----
 Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse foi meu primeiro projeto utilizando React, focado em aplicar conceitos fundamentais de front-end.
 ----
