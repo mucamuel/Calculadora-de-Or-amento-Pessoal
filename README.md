@@ -3,7 +3,7 @@
 
 
 --------
-Este projeto consiste no desenvolvimento de uma interface gráfica para uma calculadora, utilizando HTML e PYTHON. O foco principal desta iniciativa é aprimorar minhas habilidades em estruturação de layout e otimização da organização visual de componentes em aplicações web, resultando em uma experiência de usuário intuitiva e esteticamente agradável.
+Este projeto consiste no desenvolvimento de uma interface gráfica para uma calculadora, utilizando HTML5 e REACT. O foco principal desta iniciativa é aprimorar minhas habilidades em estruturação de layout e otimização da organização visual de componentes em aplicações web, resultando em uma experiência de usuário intuitiva e esteticamente agradável.
 
 ------
 📊 **ESPECIFICAÇÕES TÉCNICAS** 📊
